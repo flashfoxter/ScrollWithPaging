@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://klevashkin@195.128.157.63/svn/JeansIosProject/trunk/JeansProject/ScrollWithPaging/ScrollWithPagingTests
+https://klevashkin@195.128.157.63/svn/JeansIosProject
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f246d395-65bf-c042-87ac-35759746290a
+
+ScrollWithPagingTests-Info.plist
+file
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+ScrollWithPagingTests.m
+file
+
+
+
+add
+

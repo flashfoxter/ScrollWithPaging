@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://klevashkin@195.128.157.63/svn/JeansIosProject/trunk/JeansProject/ScrollWithPaging/ScrollWithPaging
+https://klevashkin@195.128.157.63/svn/JeansIosProject
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f246d395-65bf-c042-87ac-35759746290a
+
+Base.lproj
+dir
+
+
+
+add
+
+main.m
+file
+
+
+
+add
+
+AppDelegate.h
+file
+
+
+
+add
+
+Images.xcassets
+dir
+
+
+
+add
+
+ScrollWithPaging-Info.plist
+file
+
+
+
+add
+
+ScrollWithPaging-Prefix.pch
+file
+
+
+
+add
+
+ViewController.h
+file
+
+
+
+add
+
+AppDelegate.m
+file
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+ViewController.m
+file
+
+
+
+add
+
